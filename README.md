@@ -1,2 +1,2 @@
 # QuizApp
-Quiz game
+Quiz game - code example
